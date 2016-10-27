@@ -1,0 +1,17 @@
+#menu {
+	padding: 10px 0 10px 0;
+}
+#menu .btn-group , #menu form{
+	margin-top:  12px;
+}
+
+#menu img, #alumnos img  {
+	margin: 0 auto; padding-top: 10px;
+}
+#menu .btn {
+	font-size: 1.2em;
+}
+
+table {
+	margin-top: 12px;
+}
